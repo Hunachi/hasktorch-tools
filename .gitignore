@@ -1,2 +1,6 @@
-.stack-work
+.stack-work/
+hasktorch-tools.cabal
+result*
+graph*
+*~
 hasktorch-tools.cabal
